@@ -7,6 +7,8 @@ Othello game project from CS-162: Intro to Computer Science II at Oregon State U
 - If a player can't make a move, their turn passes to the next player. The game ends when there are no more moves for either player. The winner will have the most pieces on the board. 
 
 ### Board
+![The default Othello board](/board.png?raw=true "Text-based Othello board")
+
 For this text-based game, the 8x8 board is represented with symbols: X for black, O for white, '.' for empty space, and * for the board boundary.
 
 ### Playing the Game
